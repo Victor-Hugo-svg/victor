@@ -1,3 +1,12 @@
+<!--
+**Victor-Hugo-svg/Victor-Hugo-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Estou trabalhando como N2 na montreal!
+- 🌱 Estou cursando ciências da computação!
+
+-->
 ## Olá, meu nome é Victor Hugo. Sou Estudante de Ciências da computação do CEUB.
 
 Me chamo Victor Hugo e aqui compartilho meus projetos, experiências e habilidades em constante construção.  
